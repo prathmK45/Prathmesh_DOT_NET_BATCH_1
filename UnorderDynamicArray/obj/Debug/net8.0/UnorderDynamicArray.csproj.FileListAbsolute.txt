@@ -1,0 +1,14 @@
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\UnorderDynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\UnorderDynamicArray.AssemblyInfoInputs.cache
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\UnorderDynamicArray.AssemblyInfo.cs
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\UnorderDynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\bin\Debug\net8.0\UnorderDynamicArray.exe
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\bin\Debug\net8.0\UnorderDynamicArray.deps.json
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\bin\Debug\net8.0\UnorderDynamicArray.runtimeconfig.json
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\bin\Debug\net8.0\UnorderDynamicArray.dll
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\bin\Debug\net8.0\UnorderDynamicArray.pdb
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\UnorderDynamicArray.dll
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\refint\UnorderDynamicArray.dll
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\UnorderDynamicArray.pdb
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\UnorderDynamicArray.genruntimeconfig.cache
+C:\Users\prath\Desktop\Dotnet\UnorderDynamicArray\obj\Debug\net8.0\ref\UnorderDynamicArray.dll
