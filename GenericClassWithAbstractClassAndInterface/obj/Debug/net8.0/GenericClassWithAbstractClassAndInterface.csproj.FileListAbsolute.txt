@@ -1,0 +1,14 @@
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\GenericClassWithAbstractClassAndInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\GenericClassWithAbstractClassAndInterface.AssemblyInfoInputs.cache
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\GenericClassWithAbstractClassAndInterface.AssemblyInfo.cs
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\GenericClassWithAbstractClassAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\bin\Debug\net8.0\GenericClassWithAbstractClassAndInterface.exe
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\bin\Debug\net8.0\GenericClassWithAbstractClassAndInterface.deps.json
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\bin\Debug\net8.0\GenericClassWithAbstractClassAndInterface.runtimeconfig.json
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\bin\Debug\net8.0\GenericClassWithAbstractClassAndInterface.dll
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\bin\Debug\net8.0\GenericClassWithAbstractClassAndInterface.pdb
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\GenericClassWithAbstractClassAndInterface.dll
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\refint\GenericClassWithAbstractClassAndInterface.dll
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\GenericClassWithAbstractClassAndInterface.pdb
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\GenericClassWithAbstractClassAndInterface.genruntimeconfig.cache
+C:\Users\prath\Desktop\Dotnet\GenericClassWithAbstractClassAndInterface\obj\Debug\net8.0\ref\GenericClassWithAbstractClassAndInterface.dll
